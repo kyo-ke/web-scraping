@@ -15,8 +15,8 @@ or other version may work
  
  
 ```bash
-git clone https://github.com/hoge/~
-cd examples
+git clone git@github.com:kyo-ke/web-scraping.git
+cd web-scraping
 pip install --upgrade pip
 pip install -r requirements.txt
 python 
