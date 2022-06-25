@@ -19,7 +19,7 @@ git clone git@github.com:kyo-ke/web-scraping.git
 cd web-scraping
 pip install --upgrade pip
 pip install -r requirements.txt
-python 
+python get_bloomberg_titles.py
 ```
  
  
@@ -30,6 +30,6 @@ python
  
 # License
  
-this script is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+This script is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
  
 
